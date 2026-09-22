@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelDatabase.py:119 逻辑编排：69b12abede678e37644ff684 执行成功，业务码: 1

@@ -1,6 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
-INFO     UIAutomationLogger:test_quc_external_links.py:38 预览文件已加载含文案：其目的以及与业务和新产品开发战略的关系
-INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
-INFO     UIAutomationLogger:login.py:146 start_type: None
-INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

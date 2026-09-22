@@ -1,2 +1,0 @@
-INFO     UIAutomationLogger:ai_base_api.py:376 删除AGENT请求状态码: 200
-INFO     UIAutomationLogger:ai_base_api.py:380 删除AGENT成功: {'agent_id': '6a860125cdd7dbc51bc0f22d'}

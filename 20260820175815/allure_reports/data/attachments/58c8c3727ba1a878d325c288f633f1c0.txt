@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_delete_aggregation_v1.py:56 逻辑编排：6a13ed2d1b48d36b0870962b 执行成功，符合预期，错误码: 4003004，错误信息: 姓名为空不允许删除

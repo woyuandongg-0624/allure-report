@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_update_aggregation_single_v1.py:32 逻辑编排：6a0ec1b42007ae8e1394af3f 执行成功，业务码: 1

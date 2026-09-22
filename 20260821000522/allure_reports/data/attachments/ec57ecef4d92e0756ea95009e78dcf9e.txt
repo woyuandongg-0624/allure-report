@@ -1,4 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelUpdateBatch.py:93 逻辑编排：69a529908b558096a025a4d0 执行成功，符合预期，错误码: 4003004，错误信息: 不能更新byd
-   at Submission#30.<<Initialize>>d__0.MoveNext() in :line 160
-
-   at Submission#13.<>c__DisplayClass0_0.<<<Initialize>>g__step4__Querier|4>d.MoveNext() in :line 22

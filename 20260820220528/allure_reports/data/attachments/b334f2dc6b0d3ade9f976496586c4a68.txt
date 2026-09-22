@@ -1,8 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
-INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
-INFO     UIAutomationLogger:login.py:122 Login successful!
-INFO     UIAutomationLogger:test_multimode_number.py:632 Login successful! Proceeding to create a new sales order...
-INFO     UIAutomationLogger:test_multimode_number.py:645 texts: ['169330.4025', '169330.403', '135346.6575', '135346.658', '210056.7665', '210056.767', '667552.0530', '667552.053', '738288.2251', '738288.225', '897107.8253', '897107.825', '492515.6472', '492515.647', '123753.5669', '123753.567', '339265.7411', '339265.741', '223034.2380', '223034.238']
-INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
-INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

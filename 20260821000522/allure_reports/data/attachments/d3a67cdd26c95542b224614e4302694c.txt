@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelUpdateSingle.py:122 逻辑编排：697c70d1552db7800f3d7b9a 执行成功，业务码: 1

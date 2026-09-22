@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_bug.py:50 {'workflowInstanceId': '6a8748922a6bb7a192356a45', 'status': 0, 'customizeMessage': '', 'isPreventWorkflow': False, 'customizeCode': '', 'isSucceed': True, 'extraData': {}, 'exType': None, 'workflowVersion': 0, 'workflowName': None}

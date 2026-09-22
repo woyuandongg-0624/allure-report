@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_create_aggredata_model.py:73 logic_result: {'workflowInstanceId': '6a85f79b8131c6566cb26952', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功'}, 'X-Correlation-Id': '6090265be87f86f8f3452c3562b6226a', 'duration': 6.645254, 'customizeCode': '', 'customizeMessage': ''}

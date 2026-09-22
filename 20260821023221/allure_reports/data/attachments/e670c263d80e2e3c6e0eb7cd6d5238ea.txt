@@ -1,4 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
-INFO     UIAutomationLogger:database_connection.py:55 SQL executed successfully.
-INFO     UIAutomationLogger:test_dataservice.py:315 平台数据未更新继续等待，平台number_shuzisr：1221.0，erp：5894
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

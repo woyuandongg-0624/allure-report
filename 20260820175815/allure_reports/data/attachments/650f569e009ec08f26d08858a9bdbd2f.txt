@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_update.py:167 {'workflowInstanceId': '6a86cfe75a25c00f4d9c31aa', 'status': 1, 'extraData': {'code': '4000000', 'success': True, 'message': '更新后数据返回值有误'}, 'X-Correlation-Id': '7e00702ae69ee869dbf50eb526e92201', 'duration': 0.676301, 'customizeCode': '', 'customizeMessage': ''}

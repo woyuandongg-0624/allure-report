@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:ai_base_api.py:99 删除知识库结果: None

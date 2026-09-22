@@ -1,9 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
-INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
-INFO     UIAutomationLogger:login.py:122 Login successful!
-INFO     UIAutomationLogger:test_rich_text_editor.py:163 Login successful! Proceeding to create a new sales order...
-INFO     UIAutomationLogger:test_rich_text_editor.py:172 rich_text_before: 专注电竞自营业务，打造高品质赛事与装备一体化服务，提供专业、可靠、高效的电竞综合解决方案。
-INFO     UIAutomationLogger:test_rich_text_editor.py:185 rich_text_after: 电竞POP融合电竞赛事、品牌推广与沉浸式互动体验，打造新一代电竞场景营销平台。
-INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
-INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

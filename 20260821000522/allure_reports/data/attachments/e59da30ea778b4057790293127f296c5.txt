@@ -1,4 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelUpdateSingle.py:62 逻辑编排：697c4374552db7800f3d4693 执行成功，符合预期，错误码: 4003004，错误信息: 不能更新byd
-   at Submission#5.<<Initialize>>d__0.MoveNext() in :line 148
-
-   at Submission#9.<>c__DisplayClass0_0.<<<Initialize>>g__step3__Querier|3>d.MoveNext() in :line 22

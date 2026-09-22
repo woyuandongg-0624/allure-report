@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_update_single_v1.py:213 逻辑编排：6a0d6a0e446d376539d741b4 执行成功，符合预期，错误码: 4003004，错误信息: 姓名: 校验不通过,请检查

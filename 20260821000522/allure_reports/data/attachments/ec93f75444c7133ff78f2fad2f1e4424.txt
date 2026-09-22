@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelDelete.py:154 逻辑编排：69a10ceab1551cb2a3a7a962 执行成功，业务码: 1

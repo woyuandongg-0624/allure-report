@@ -1,5 +1,0 @@
-INFO     UIAutomationLogger:test_xiansuo_kehu_laiyuanbianma.py:44 logic_result: {'workflowInstanceId': '6a87b0cc46121c5e651d6e80', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功', 'resData': {'SerialNumber': 'KH20260365', 'companyName': '测试新建', '_id': '6a3cff4cbd4d7ae278cfcd98', 'customerSource': '电商平台', 'lineNo': 'LEAD2026060014', 'customerRates': 35.0}}, 'X-Correlation-Id': '7946ae98581caa049a9fd11de0de0f1a', 'duration': 0.278937, 'customizeCode': '', 'customizeMessage': ''}
-INFO     UIAutomationLogger:test_xiansuo_kehu_laiyuanbianma.py:49 extraData(业务结果): {"code": "1", "success": true, "message": "成功", "resData": {"SerialNumber": "KH20260365", "companyName": "测试新建", "_id": "6a3cff4cbd4d7ae278cfcd98", "customerSource": "电商平台", "lineNo": "LEAD2026060014", "customerRates": 35.0}}
-INFO     UIAutomationLogger:test_xiansuo_kehu_laiyuanbianma.py:62 ✓ 工作流执行成功，业务返回码/消息校验通过
-INFO     UIAutomationLogger:test_xiansuo_kehu_laiyuanbianma.py:69 ✓ 提取到客户来源线索编码 lineNo: LEAD2026060014
-INFO     UIAutomationLogger:test_xiansuo_kehu_laiyuanbianma.py:86 ✓ 客户信息关键字段校验通过

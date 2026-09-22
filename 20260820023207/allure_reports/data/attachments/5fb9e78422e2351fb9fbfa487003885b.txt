@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_process_logic.py:265 结果：{'workflowInstanceId': '6a86079d8131c6566cb27e20', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功', 'remessage': '操作成功'}, 'X-Correlation-Id': '983f2091074611f58df851b76c969b58', 'duration': 0.491903, 'customizeCode': '', 'customizeMessage': ''}

@@ -1,8 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
-INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
-INFO     UIAutomationLogger:login.py:122 Login successful!
-INFO     UIAutomationLogger:test_upload_attach.py:292 Login successful! Proceeding to create a new sales order...
-DEBUG    UIAutomationLogger:test_upload_attach.py:314 folders is :['固定文件夹01', '固定sub01', '固定sub02', 'fixed_sub_01.txt', '固定文件夹02', 'fixed_root_05.txt', 'fixed_root_04.txt', '固定文件夹03', 'fixed_root_01.txt', 'fixed_root_02.txt', 'fixed_root_03.txt']
-INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
-INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

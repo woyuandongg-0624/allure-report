@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_public_variable.py:230 逻辑编排：6a5e07fdae70ac6856f5ee3f 执行成功，业务码: 1

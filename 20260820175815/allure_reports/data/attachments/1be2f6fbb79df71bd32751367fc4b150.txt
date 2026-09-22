@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_update_aggregation_batch_v1.py:291 逻辑编排：6a0ef0cd5b2dc6755232fae9 执行成功，业务码: 1

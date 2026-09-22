@@ -1,7 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
-INFO     UIAutomationLogger:test_external_links.py:123 Login successful! Proceeding to create a new sales order...
-INFO     UIAutomationLogger:test_external_links.py:131 Generated file path: /tmp/test_1787252698.pdf
-INFO     UIAutomationLogger:test_external_links.py:141 response: https://app.test.powertradepro.com/apis/externallinks/api/proxy/file/webStsToken?fileMd5=976ebcd2bf7eb6a8b3401cf82e1c8abf&fileName=test_1787252698.pdf&uploadType=Append&fileSize=781&app=8b6b1baa-46b9-42f2-9c9f-e4f6b178699b&form=652d1579-7b5e-46f0-a2b8-13473f662fd8&component=bqomvhra&page=886da23d-84de-4a25-b4e6-ffbe155443f5&hostTenant=3a149f92-474e-5dc0-913b-66f1bbcef218
-INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
-INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

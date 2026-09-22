@@ -1,2 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelDatabase.py:169 {'workflowInstanceId': '6a8725d5cb0717630e0315ea', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功'}, 'X-Correlation-Id': '8dbb4b22e9f39f73490d3e0952a953fa', 'duration': 0.54554, 'customizeCode': '', 'customizeMessage': ''}
-INFO     UIAutomationLogger:test_aggregationModelDatabase.py:178 逻辑编排：69b139d7de678e3764500893 执行成功，业务码: 1

@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_delete_v1.py:32 逻辑编排：6a0ec0982007ae8e1394ae32 执行成功，业务码: 1

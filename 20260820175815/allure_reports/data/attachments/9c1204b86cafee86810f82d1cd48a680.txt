@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_updata_batch_v1.py:406 逻辑编排：6a0ebfa52007ae8e1394ad91 执行成功，业务码: 1

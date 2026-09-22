@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_delete_aggregation_v1.py:114 逻辑编排：6a13ed7d1b48d36b08709669 执行成功，业务码: 1

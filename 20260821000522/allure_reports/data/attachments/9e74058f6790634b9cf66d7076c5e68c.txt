@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelUpdateBatch.py:34 逻辑编排：69a24787a26df009ee3d34b5 执行成功，业务码: 1

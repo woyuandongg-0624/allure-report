@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_process_logic.py:67 结果：流程已结束

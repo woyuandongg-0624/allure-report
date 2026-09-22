@@ -1,6 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
-INFO     UIAutomationLogger:test_quc_external_links.py:75 文件已成功保存到临时路径：/tmp/DA16-4 gift box 次推包装 (3) (1).pdf
-INFO     UIAutomationLogger:test_quc_external_links.py:86 临时文件已删除: /tmp/DA16-4 gift box 次推包装 (3) (1).pdf
-INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
-INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

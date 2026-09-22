@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelCreateSingle.py:32 逻辑编排：69844e2f3852513bf0d0bcc3 执行成功，业务码: 1

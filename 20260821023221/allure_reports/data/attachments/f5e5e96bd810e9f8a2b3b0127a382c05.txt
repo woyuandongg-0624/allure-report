@@ -1,3 +1,0 @@
-INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
-INFO     UIAutomationLogger:database_connection.py:55 SQL executed successfully.
-INFO     UIAutomationLogger:conftest.py:118 is_failed: False

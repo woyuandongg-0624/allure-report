@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_aggregationModelUpdateSingle.py:148 逻辑编排：6982fc7d2167a8b7768ed338 执行成功，业务码: 1

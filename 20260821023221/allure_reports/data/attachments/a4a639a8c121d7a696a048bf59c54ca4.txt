@@ -1,1 +1,0 @@
-INFO     UIAutomationLogger:test_logic_requirements.py:83 逻辑编排：6a55ddc91843c966033b89cb 执行成功，业务码: 1
