@@ -1,0 +1,2 @@
+INFO     UIAutomationLogger:test_update_database.py:53 {'workflowInstanceId': '6a86cfc9811236bc825eef9f', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功'}, 'X-Correlation-Id': '29ae7c3f290eee8e1fba58ea0d288522', 'duration': 5.927489, 'customizeCode': '', 'customizeMessage': ''}
+INFO     UIAutomationLogger:test_update_database.py:67 测试执行成功，业务码: 1

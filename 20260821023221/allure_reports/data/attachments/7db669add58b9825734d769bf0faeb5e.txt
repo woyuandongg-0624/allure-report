@@ -1,0 +1,18 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_multimode.py:1187 Login successful! Proceeding to create a new sales order...
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/permissionmanage/app/tenantWorkbench/currentUser
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/DynamicApplication/byNameOrAppSourceId?appSourceId=8b6b1baa-46b9-42f2-9c9f-e4f6b178699b
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/DynamicApplication/8b6b1baa-46b9-42f2-9c9f-e4f6b178699b
+INFO     UIAutomationLogger:base_class.py:32 Button '编辑按钮' clicked successfully.
+ERROR    UIAutomationLogger:test_multimode.py:1206 Error occurred: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("//div[contains(text(), '嵌套多模式列表修改数据，会同时触发第一层多模式和嵌套多模式绑定的模型变化类')]") to be visible
+
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode bytes in position 1-2: invalid continuation byte
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode byte 0xf0 in position 1: invalid continuation byte
+DEBUG    UIAutomationLogger:test_multimode.py:1233 before_modified_exist=False, after_modified_exist=True
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

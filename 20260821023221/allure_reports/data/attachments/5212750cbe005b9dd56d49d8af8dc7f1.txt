@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_logic_public_variable.py:404 逻辑编排：6a5f416613756ea3bfee0a32 执行成功，业务码: 1

@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_invokes_logic.py:48 var_str is 5, type is <class 'str'>

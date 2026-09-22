@@ -1,0 +1,15 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:3154 未检测到加载动画
+INFO     UIAutomationLogger:base_class.py:32 Button '新增' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2185 button '快速创建' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2327 activate component successfully
+INFO     UIAutomationLogger:base_class.py:2349 input component value successfully
+INFO     UIAutomationLogger:base_class.py:2327 activate component successfully
+INFO     UIAutomationLogger:base_class.py:2349 input component value successfully
+INFO     UIAutomationLogger:base_class.py:2266 button '确认' clicked successfully.
+INFO     UIAutomationLogger:test_pageDerivation.py:835 1
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

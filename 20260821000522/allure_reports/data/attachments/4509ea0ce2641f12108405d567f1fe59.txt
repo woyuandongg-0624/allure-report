@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_aggregationModelDelete.py:33 逻辑编排：699fe86ca22c84037157a2ca 执行成功，业务码: 1

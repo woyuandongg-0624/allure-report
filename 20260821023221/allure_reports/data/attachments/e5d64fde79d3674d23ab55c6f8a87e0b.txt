@@ -1,0 +1,2 @@
+INFO     UIAutomationLogger:test_knowledge.py:73 复用新增知识库id啦啦: 6a87512fd091b7ecac304943 修改的序号：97
+INFO     UIAutomationLogger:ai_base_api.py:76 修改知识库结果: None

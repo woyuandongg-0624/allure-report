@@ -1,0 +1,20 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:3151 未检测到加载动画
+INFO     UIAutomationLogger:base_class.py:32 Button '新增' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:32 Button '新增' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:456 select matching_method 'order_details.productId' clicked successfully.
+INFO     UIAutomationLogger:test_pageDerivation.py:173 订单明细新增页商品总价实时计算成功
+INFO     UIAutomationLogger:base_class.py:32 Button '保存' clicked successfully.
+INFO     UIAutomationLogger:test_pageDerivation.py:184 订单明细新增列表商品总价回填成功
+INFO     UIAutomationLogger:base_class.py:2526 click event successfully
+INFO     UIAutomationLogger:test_pageDerivation.py:194 2
+INFO     UIAutomationLogger:test_pageDerivation.py:197 订单明细查看内嵌页面商品总价填充成功
+INFO     UIAutomationLogger:base_class.py:2346 input component value successfully
+INFO     UIAutomationLogger:base_class.py:32 Button '保存' clicked successfully.
+INFO     UIAutomationLogger:test_pageDerivation.py:209 200
+INFO     UIAutomationLogger:test_pageDerivation.py:212 订单tab总价计算成功
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

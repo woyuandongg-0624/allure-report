@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_logic_requirements.py:31 逻辑编排：6a55a6c31843c966033b4ac0 执行成功，业务码: 1

@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_logic_update.py:155 logic_result: {'workflowInstanceId': '6a85f8788131c6566cb26f61', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功'}, 'X-Correlation-Id': '7077ad69ebe6927d46757ddede7dbf05', 'duration': 22.438094, 'customizeCode': '', 'customizeMessage': ''}

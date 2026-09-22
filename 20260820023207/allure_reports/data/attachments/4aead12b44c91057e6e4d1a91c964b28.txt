@@ -1,0 +1,52 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+ERROR    asyncio:base_events.py:1707 Exception in callback AsyncIOEventEmitter._emit_run.<locals>.callback(<Task finishe... navigation')>) at /usr/local/lib/python3.8/dist-packages/pyee/asyncio.py:69
+handle: <Handle AsyncIOEventEmitter._emit_run.<locals>.callback(<Task finishe... navigation')>) at /usr/local/lib/python3.8/dist-packages/pyee/asyncio.py:69>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.8/dist-packages/pyee/asyncio.py", line 77, in callback
+    self.emit("error", exc)
+  File "/usr/local/lib/python3.8/dist-packages/pyee/base.py", line 215, in emit
+    self._emit_handle_potential_error(event, args[0] if args else None)
+  File "/usr/local/lib/python3.8/dist-packages/pyee/base.py", line 173, in _emit_handle_potential_error
+    raise error
+  File "/data/repo/all-test/ui-test/LowCode/WebApp/Page/test_buglist.py", line 176, in print_args
+    self.console_messages.append(await arg.json_value())
+  File "/usr/local/lib/python3.8/dist-packages/playwright/async_api/_generated.py", line 1766, in json_value
+    return mapping.from_maybe_impl(await self._impl_obj.json_value())
+  File "/usr/local/lib/python3.8/dist-packages/playwright/_impl/_js_handle.py", line 114, in json_value
+    return parse_result(await self._channel.send("jsonValue"))
+  File "/usr/local/lib/python3.8/dist-packages/playwright/_impl/_connection.py", line 59, in send
+    return await self._connection.wrap_api_call(
+  File "/usr/local/lib/python3.8/dist-packages/playwright/_impl/_connection.py", line 520, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: JSHandle.json_value: Execution context was destroyed, most likely because of a navigation
+ERROR    asyncio:base_events.py:1707 Exception in callback AsyncIOEventEmitter._emit_run.<locals>.callback(<Task finishe... navigation')>) at /usr/local/lib/python3.8/dist-packages/pyee/asyncio.py:69
+handle: <Handle AsyncIOEventEmitter._emit_run.<locals>.callback(<Task finishe... navigation')>) at /usr/local/lib/python3.8/dist-packages/pyee/asyncio.py:69>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/asyncio/events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "/usr/local/lib/python3.8/dist-packages/pyee/asyncio.py", line 77, in callback
+    self.emit("error", exc)
+  File "/usr/local/lib/python3.8/dist-packages/pyee/base.py", line 215, in emit
+    self._emit_handle_potential_error(event, args[0] if args else None)
+  File "/usr/local/lib/python3.8/dist-packages/pyee/base.py", line 173, in _emit_handle_potential_error
+    raise error
+  File "/data/repo/all-test/ui-test/LowCode/WebApp/Page/test_buglist.py", line 176, in print_args
+    self.console_messages.append(await arg.json_value())
+  File "/usr/local/lib/python3.8/dist-packages/playwright/async_api/_generated.py", line 1766, in json_value
+    return mapping.from_maybe_impl(await self._impl_obj.json_value())
+  File "/usr/local/lib/python3.8/dist-packages/playwright/_impl/_js_handle.py", line 114, in json_value
+    return parse_result(await self._channel.send("jsonValue"))
+  File "/usr/local/lib/python3.8/dist-packages/playwright/_impl/_connection.py", line 59, in send
+    return await self._connection.wrap_api_call(
+  File "/usr/local/lib/python3.8/dist-packages/playwright/_impl/_connection.py", line 520, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.Error: JSHandle.json_value: Execution context was destroyed, most likely because of a navigation
+INFO     UIAutomationLogger:test_buglist.py:195 点击第二页
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

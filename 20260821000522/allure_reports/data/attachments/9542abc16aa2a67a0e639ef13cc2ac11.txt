@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_aggregationModelCreateSingle.py:90 逻辑编排：69846bd62840330786f45b6f 执行成功，业务码: 1

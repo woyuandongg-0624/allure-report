@@ -1,0 +1,10 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/DynamicApplication/90eb6c40-5486-4326-ab29-a5da11dc4b6f
+INFO     UIAutomationLogger:base_class.py:2529 click event successfully
+INFO     UIAutomationLogger:test_pageDerivation.py:517 获取到 DataDisplayName: 202600000139
+INFO     UIAutomationLogger:test_pageDerivation.py:534 订单详情页标题正确
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

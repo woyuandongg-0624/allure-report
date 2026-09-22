@@ -1,0 +1,8 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_multimode_textarea.py:519 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:test_multimode_textarea.py:527 rect: {'x': 1490, 'y': 184, 'width': 150, 'height': 112, 'top': 184, 'right': 1640, 'bottom': 296, 'left': 1490}
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

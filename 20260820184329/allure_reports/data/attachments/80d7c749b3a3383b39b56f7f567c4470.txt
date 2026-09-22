@@ -1,0 +1,14 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:test_treefruit_sousuo.py:35 Treefruit - 客户管理搜索客户编码校验 用例开始执行
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:1009 Searching page and navigated successfully.
+INFO     UIAutomationLogger:test_treefruit_sousuo.py:54 已进入客户管理页面
+INFO     UIAutomationLogger:test_treefruit_sousuo.py:60 已激活列表搜索框
+INFO     UIAutomationLogger:test_treefruit_sousuo.py:65 已输入客户编码：18702
+INFO     UIAutomationLogger:test_treefruit_sousuo.py:68 已检索客户编码：18702
+INFO     UIAutomationLogger:test_treefruit_sousuo.py:72 搜索结果已包含：桔子科技工程有限公司
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:test_treefruit_sousuo.py:90 测试结束，结果: 成功
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

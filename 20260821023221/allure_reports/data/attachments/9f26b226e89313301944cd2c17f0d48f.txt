@@ -1,0 +1,13 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_open_process.py:1068 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:test_open_process.py:1075 流程数据是什么:流程测试数据_635c5b90
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': '5d9474c1-a2d1-4998-81b4-f8a612d1796d', 'nodeId': 'pt_422e0bde-0f8e-4452-99f5-78ac1d1c5c20', 'nodeName': 'A_执行人默认转交', 'taskId': '46767ebc-9ccf-11f1-9ceb-425a7044ebe2'}, {'userId': 'debff7ad-9499-4287-aeed-e93860251c9b', 'nodeId': 'pt_422e0bde-0f8e-4452-99f5-78ac1d1c5c20', 'nodeName': 'A_执行人默认转交', 'taskId': '4678c8af-9ccf-11f1-9ceb-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:base_class.py:678 multiMode_search: ljpzjkvg.searchValueList  filled successfully.
+INFO     UIAutomationLogger:base_class.py:1411 Button '流程测试数据_635c5b90' clicked successfully.
+INFO     UIAutomationLogger:test_open_process.py:1092 【响应】响应数据:<Response url='https://app.test.powertradepro.com/apis/tenancy/api/app/automationprocess/form/saveData' request=<Request url='https://app.test.powertradepro.com/apis/tenancy/api/app/automationprocess/form/saveData' method='POST'>>,dddd{'code': 200, 'message': '操作成功', 'data': {'results': [{'mutationResult': False, 'queryResult': {'_modifyCount': 1, '_upsertId': None, 'MatchedCount': 1, 'InsertedCount': 0, '_id': '6a87589df903a1f0009f2fc9'}}], 'processInstanceId': '42d98172-9ccf-11f1-9ceb-425a7044ebe2'}}
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

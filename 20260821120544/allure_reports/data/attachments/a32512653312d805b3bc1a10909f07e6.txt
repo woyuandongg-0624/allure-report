@@ -1,0 +1,45 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_cuxiaojiageshenbao_fuzhi.py:42 促销价格申报 - 复制 用例开始执行
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+WARNING  UIAutomationLogger:test_cuxiaojiageshenbao_fuzhi.py:82 导航第 1 次失败：Locator.wait_for: Timeout 10000ms exceeded.
+Call log:
+waiting for get_by_role("textbox", name="请输入", exact=True) to be visible
+
+WARNING  UIAutomationLogger:test_cuxiaojiageshenbao_fuzhi.py:82 导航第 2 次失败：Locator.wait_for: Error: strict mode violation: get_by_role("complementary").locator("img") resolved to 10 elements:
+    1) <img class="tpt-w-8 tpt-h-8 tpt-rounded-9 tpt-cursor-pointer" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/3a01177d103d182483304eeadbc13996.jpg?x-oss-process=image/resize,h_32,w_32"/> aka locator(".tpt-w-8").first
+    2) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E9%BB%98%E8%AE%A4.png___3a141dcc2af3e3a5b110979fd2749ec3.png?x-oss-process=image/resize,h_32,w_32"/> aka locator(".tpt-w-10 > div > .tpt-w-10 > .tpt-w-7").first
+    3) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86%20(1).png3a1927aacef233de8aa7173e9c871cc3.png___3a1c6f123040a98fcc5d8e9f183d9d47.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(2) > .tpt-w-10 > .tpt-w-7")
+    4) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/1.png.png___3a141d90ba9a24e7da44246741f50290.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(3) > .tpt-w-10 > .tpt-w-7")
+    5) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E9%BB%98%E8%AE%A4.png___3a141dcc2af3e3a5b110979fd2749ec3.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(4) > .tpt-w-10 > .tpt-w-7")
+    6) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%88%86%E7%BB%84.png___3a1461f953b1c4af83b1f668db586c88.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(5) > .tpt-w-10 > .tpt-w-7")
+    7) <img class="tpt-w-7 tpt-h-7" src="https://minio.lumilegend.cn/erp-img/assets/avatar/2026/1/27/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png___3a1f10af32a3a5671d75333fa9b1f1fb.png?x-imgproxy-process=image/resize,m_fit,w_32,h_32"/> aka locator("div:nth-child(6) > .tpt-w-10 > .tpt-w-7")
+    8) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E7%94%B5%E5%95%86%E5%88%86%E7%BB%84.png___3a141fca24ac19e9b32c432f262fe85a.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(7) > .tpt-w-10 > .tpt-w-7")
+    9) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/OA%E5%88%86%E7%BB%84.png___3a141fc2a19dc95f982d31dc14bc4dbb.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(8) > .tpt-w-10 > .tpt-w-7")
+    10) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/20250709130957h0_b0832aa1802f0fd89e176eaaf3935140.jfif___3a1bde650796baf67beb55759f6319df.jfif?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(9) > .tpt-w-10 > .tpt-w-7")
+
+Call log:
+waiting for get_by_role("complementary").locator("img") to be visible
+
+WARNING  UIAutomationLogger:test_cuxiaojiageshenbao_fuzhi.py:82 导航第 3 次失败：Locator.wait_for: Error: strict mode violation: get_by_role("complementary").locator("img") resolved to 10 elements:
+    1) <img class="tpt-w-8 tpt-h-8 tpt-rounded-9 tpt-cursor-pointer" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/3a01177d103d182483304eeadbc13996.jpg?x-oss-process=image/resize,h_32,w_32"/> aka locator(".tpt-w-8").first
+    2) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E9%BB%98%E8%AE%A4.png___3a141dcc2af3e3a5b110979fd2749ec3.png?x-oss-process=image/resize,h_32,w_32"/> aka locator(".tpt-w-10 > div > .tpt-w-10 > .tpt-w-7").first
+    3) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E5%BA%93%E5%AD%98%E7%AE%A1%E7%90%86%20(1).png3a1927aacef233de8aa7173e9c871cc3.png___3a1c6f123040a98fcc5d8e9f183d9d47.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(2) > .tpt-w-10 > .tpt-w-7")
+    4) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/1.png.png___3a141d90ba9a24e7da44246741f50290.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(3) > .tpt-w-10 > .tpt-w-7")
+    5) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E9%BB%98%E8%AE%A4.png___3a141dcc2af3e3a5b110979fd2749ec3.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(4) > .tpt-w-10 > .tpt-w-7")
+    6) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E4%BE%9B%E5%BA%94%E9%93%BE%E5%88%86%E7%BB%84.png___3a1461f953b1c4af83b1f668db586c88.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(5) > .tpt-w-10 > .tpt-w-7")
+    7) <img class="tpt-w-7 tpt-h-7" src="https://minio.lumilegend.cn/erp-img/assets/avatar/2026/1/27/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png___3a1f10af32a3a5671d75333fa9b1f1fb.png?x-imgproxy-process=image/resize,m_fit,w_32,h_32"/> aka locator("div:nth-child(6) > .tpt-w-10 > .tpt-w-7")
+    8) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/%E7%94%B5%E5%95%86%E5%88%86%E7%BB%84.png___3a141fca24ac19e9b32c432f262fe85a.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(7) > .tpt-w-10 > .tpt-w-7")
+    9) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/OA%E5%88%86%E7%BB%84.png___3a141fc2a19dc95f982d31dc14bc4dbb.png?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(8) > .tpt-w-10 > .tpt-w-7")
+    10) <img class="tpt-w-7 tpt-h-7" src="https://ptbox-p.obs.cn-east-3.myhuaweicloud.com/assets/avatar/20250709130957h0_b0832aa1802f0fd89e176eaaf3935140.jfif___3a1bde650796baf67beb55759f6319df.jfif?x-oss-process=image/resize,h_32,w_32"/> aka locator("div:nth-child(9) > .tpt-w-10 > .tpt-w-7")
+
+Call log:
+waiting for get_by_role("complementary").locator("img") to be visible
+
+ERROR    UIAutomationLogger:test_cuxiaojiageshenbao_fuzhi.py:167 断言失败: 导航失败：3 次尝试均未进入“促销价格申报”页面
+assert False
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: None
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:test_cuxiaojiageshenbao_fuzhi.py:178 测试结束，结果: 失败
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

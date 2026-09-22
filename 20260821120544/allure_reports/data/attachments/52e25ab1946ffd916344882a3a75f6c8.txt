@@ -1,0 +1,9 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:test_kehushangpin_add.py:27 开始测试客户商品新增给内销产品经理发消息，生成的商品编号: 402338340805782
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_kehushangpin_add.py:56 客户商品表单--新增商品
+INFO     UIAutomationLogger:test_kehushangpin_add.py:80 测试成功完成，生成新的商品编号: 402338340805782
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

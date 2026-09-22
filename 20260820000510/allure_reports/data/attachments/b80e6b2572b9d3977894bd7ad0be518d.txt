@@ -1,0 +1,2 @@
+INFO     UIAutomationLogger:test_aggregationModelEvents.py:18 correlationId:245432d9e5560a9a158e83b90b576caf
+INFO     UIAutomationLogger:test_aggregationModelEvents.py:22 result:None

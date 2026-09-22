@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_logic_update_aggregation_batch_v1.py:80 逻辑编排：6a0eee815b2dc6755232f894 执行成功，符合预期，错误码: 4003004，错误信息: 姓名: 校验不通过,请检查

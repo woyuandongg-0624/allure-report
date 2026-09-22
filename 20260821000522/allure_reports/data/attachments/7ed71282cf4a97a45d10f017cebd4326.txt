@@ -1,0 +1,2 @@
+INFO     UIAutomationLogger:test_aggregationModelRules.py:88 ['苹果(1)', '梨(1)']
+INFO     UIAutomationLogger:test_aggregationModelRules.py:90 苹果(1),梨(1)

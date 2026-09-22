@@ -1,0 +1,9 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_register.py:27 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:test_register.py:39 Temporary email address: 20260820034440@emalupe.com
+INFO     UIAutomationLogger:base_class.py:32 Button '获取验证码' clicked successfully.
+INFO     UIAutomationLogger:test_register.py:62 Verification code: 8430
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/user
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

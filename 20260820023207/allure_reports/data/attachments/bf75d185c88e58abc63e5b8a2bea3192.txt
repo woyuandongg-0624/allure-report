@@ -1,0 +1,12 @@
+INFO     UIAutomationLogger:test_open_process.py:884 流程结果：{'workflowInstanceId': '6a86073b8131c6566cb27d72', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功', 'data': [{'processStatus': 'inProcess', 'processInstanceId': '2a83988b-9c06-11f1-b7f0-425a7044ebe2', 'processModelKey': '72115c2d-04ef-45e9-9ee1-87f98896bab3', 'processName': '测试互联流程rxl_条件执行人', 'pendingTasks': [{'userId': 'debff7ad-9499-4287-aeed-e93860251c9b', 'nodeId': 'pt_4b54f10a-8b9e-446a-ac0b-ff7189a2f0b6', 'nodeName': '人工节点_copy', 'taskId': '2ae789c9-9c06-11f1-b7f0-425a7044ebe2'}]}], 'bdata': {'_id': '6a86073b474f5370b7b4d437'}}, 'X-Correlation-Id': '08cac24d975abb0d2db2f3ecd7656544', 'duration': 2.03511, 'customizeCode': '', 'customizeMessage': ''}
+INFO     UIAutomationLogger:test_open_process.py:887 流程实例ID和数据id：2a83988b-9c06-11f1-b7f0-425a7044ebe2,6a86073b474f5370b7b4d437
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': 'debff7ad-9499-4287-aeed-e93860251c9b', 'nodeId': 'pt_4b54f10a-8b9e-446a-ac0b-ff7189a2f0b6', 'nodeName': '人工节点_copy', 'taskId': '2ae789c9-9c06-11f1-b7f0-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': 'debff7ad-9499-4287-aeed-e93860251c9b', 'nodeId': 'pt_9427d046-467a-483c-a137-f5b3dc92e9c8', 'nodeName': '人工节点_copy_copy', 'taskId': '2b93cf71-9c06-11f1-b7f0-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': 'debff7ad-9499-4287-aeed-e93860251c9b', 'nodeId': 'pt_4b54f10a-8b9e-446a-ac0b-ff7189a2f0b6', 'nodeName': '人工节点_copy', 'taskId': '2c19c864-9c06-11f1-b7f0-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': 'debff7ad-9499-4287-aeed-e93860251c9b', 'nodeId': 'pt_9427d046-467a-483c-a137-f5b3dc92e9c8', 'nodeName': '人工节点_copy_copy', 'taskId': '2c7d1e27-9c06-11f1-b7f0-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:test_open_process.py:909 更改执行人结果：{'workflowInstanceId': '6a86073f8131c6566cb27d88', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功', 'remessage': '操作成功'}, 'X-Correlation-Id': '6fa8521e86a49b284e8f8680e07f356b', 'duration': 0.65219, 'customizeCode': '', 'customizeMessage': ''}
+INFO     UIAutomationLogger:test_open_process.py:911 更改执行人成功

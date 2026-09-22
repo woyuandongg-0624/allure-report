@@ -1,0 +1,12 @@
+INFO     UIAutomationLogger:test_open_process.py:825 流程结果：{'workflowInstanceId': '6a87583c2a6bb7a19235886a', 'status': 1, 'extraData': {'code': '1', 'success': True, 'message': '成功', 'data': [{'processStatus': 'inProcess', 'processInstanceId': '0928ad11-9ccf-11f1-9ceb-425a7044ebe2', 'processModelKey': '42c2c857-b47b-4c3f-bcae-db8c721f5a18', 'processName': '测试互联流程rxl_执行', 'pendingTasks': []}], 'pkeyword': '退回跳过254844'}, 'X-Correlation-Id': '48c363d9e3342a5d03fc4efdb1aea703', 'duration': 3.026506, 'customizeCode': '', 'customizeMessage': ''}
+INFO     UIAutomationLogger:test_open_process.py:827 流程实例 ID：0928ad11-9ccf-11f1-9ceb-425a7044ebe2
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[]
+INFO     UIAutomationLogger:get_process_history.py:53 pendingTasks 为空，继续等待...
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': '5d9474c1-a2d1-4998-81b4-f8a612d1796d', 'nodeId': 'pt_422e0bde-0f8e-4452-99f5-78ac1d1c5c20', 'nodeName': 'A_执行人默认转交', 'taskId': '0ce4f1f1-9ccf-11f1-9ceb-425a7044ebe2'}, {'userId': 'debff7ad-9499-4287-aeed-e93860251c9b', 'nodeId': 'pt_422e0bde-0f8e-4452-99f5-78ac1d1c5c20', 'nodeName': 'A_执行人默认转交', 'taskId': '0ce84d54-9ccf-11f1-9ceb-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': '5d9474c1-a2d1-4998-81b4-f8a612d1796d', 'nodeId': 'pt_6baf4403-24d8-44d6-92b6-fdd22fe22987', 'nodeName': 'B_跳过_自动执行2100', 'taskId': '0de8f493-9ccf-11f1-9ceb-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': '5d9474c1-a2d1-4998-81b4-f8a612d1796d', 'nodeId': 'pt_92c20930-458c-4827-98a2-0b7939c627b5', 'nodeName': 'K1_退回到上个人工节点', 'taskId': '0eda59a8-9ccf-11f1-9ceb-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': '5d9474c1-a2d1-4998-81b4-f8a612d1796d', 'nodeId': 'pt_6baf4403-24d8-44d6-92b6-fdd22fe22987', 'nodeName': 'B_跳过_自动执行2100', 'taskId': '0fe0f44b-9ccf-11f1-9ceb-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===

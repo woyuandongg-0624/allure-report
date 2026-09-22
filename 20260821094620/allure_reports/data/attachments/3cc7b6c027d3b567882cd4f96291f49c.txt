@@ -1,0 +1,57 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_chanpintaotai_filter_xilie.py:36 产品淘汰 - 按系列2筛选用例开始执行
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:1896 已成功进入页面：应用"内销产品" / 页面"产品淘汰" / URL=https://app.dangquyun.com/tabs/c2775e0a-d542-4ad5-bb82-7519055d45b4/displayApp/093b2734-bce8-4237-a465-a5381ed07e76/dynamicApp/093b2734-bce8-4237-a465-a5381ed07e76/pagedetail/b085af49-9a2c-4cb4-b4ea-f885ce7983c2/host/39fa06cf-4178-e8bc-8172-9869630559c1
+INFO     UIAutomationLogger:test_chanpintaotai_filter_xilie.py:61 已进入“内销产品 / 产品淘汰”页面
+ERROR    UIAutomationLogger:base_class.py:232 Error: Page.wait_for_selector: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("[role=\"tooltip\"] [title=\"键盘托\"] input[type=\"checkbox\"]") to be visible
+
+WARNING  UIAutomationLogger:test_chanpintaotai_filter_xilie.py:114 系列筛选第 1 次失败：Locator expected to be checked
+Actual value: <element(s) not found> 
+Call log:
+LocatorAssertions.to_be_checked with timeout 5000ms
+  - waiting for locator("[role=\"tooltip\"] [title=\"键盘托\"] input[type=\"checkbox\"]").first
+
+ERROR    UIAutomationLogger:base_class.py:770 点击页面元素失败：Locator.click: Error: strict mode violation: locator("[title=\"系列2\"]") resolved to 2 elements:
+    1) <span title="系列2" _nk="urbUa5" class="tagSelectedPlaceholder___j3VwR">系列2</span> aka locator("#zvvdmtxa").get_by_title("系列")
+    2) <div title="系列2" _nk="urbU14" class="leftTitle___LxAxZ">系列2</div> aka get_by_role("tooltip").get_by_text("系列")
+
+Call log:
+waiting for locator("[title=\"系列2\"]")
+
+WARNING  UIAutomationLogger:test_chanpintaotai_filter_xilie.py:114 系列筛选第 2 次失败：Locator.click: Error: strict mode violation: locator("[title=\"系列2\"]") resolved to 2 elements:
+    1) <span title="系列2" _nk="urbUa5" class="tagSelectedPlaceholder___j3VwR">系列2</span> aka locator("#zvvdmtxa").get_by_title("系列")
+    2) <div title="系列2" _nk="urbU14" class="leftTitle___LxAxZ">系列2</div> aka get_by_role("tooltip").get_by_text("系列")
+
+Call log:
+waiting for locator("[title=\"系列2\"]")
+
+ERROR    UIAutomationLogger:base_class.py:770 点击页面元素失败：Locator.click: Error: strict mode violation: locator("[title=\"系列2\"]") resolved to 2 elements:
+    1) <span title="系列2" _nk="urbUa5" class="tagSelectedPlaceholder___j3VwR">系列2</span> aka locator("#zvvdmtxa").get_by_title("系列")
+    2) <div title="系列2" _nk="urbU14" class="leftTitle___LxAxZ">系列2</div> aka get_by_role("tooltip").get_by_text("系列")
+
+Call log:
+waiting for locator("[title=\"系列2\"]")
+
+WARNING  UIAutomationLogger:test_chanpintaotai_filter_xilie.py:114 系列筛选第 3 次失败：Locator.click: Error: strict mode violation: locator("[title=\"系列2\"]") resolved to 2 elements:
+    1) <span title="系列2" _nk="urbUa5" class="tagSelectedPlaceholder___j3VwR">系列2</span> aka locator("#zvvdmtxa").get_by_title("系列")
+    2) <div title="系列2" _nk="urbU14" class="leftTitle___LxAxZ">系列2</div> aka get_by_role("tooltip").get_by_text("系列")
+
+Call log:
+waiting for locator("[title=\"系列2\"]")
+
+ERROR    UIAutomationLogger:test_chanpintaotai_filter_xilie.py:139 断言失败: 系列2筛选失败：3 次尝试均未成功，搜索值为“键盘托”，最后一次错误为“Locator.click: Error: strict mode violation: locator("[title=\"系列2\"]") resolved to 2 elements:
+      1) <span title="系列2" _nk="urbUa5" class="tagSelectedPlaceholder___j3VwR">系列2</span> aka locator("#zvvdmtxa").get_by_title("系列")
+      2) <div title="系列2" _nk="urbU14" class="leftTitle___LxAxZ">系列2</div> aka get_by_role("tooltip").get_by_text("系列")
+  
+  Call log:
+  waiting for locator("[title=\"系列2\"]")
+  ”
+assert False
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: None
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:test_chanpintaotai_filter_xilie.py:150 测试结束，结果: 失败
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

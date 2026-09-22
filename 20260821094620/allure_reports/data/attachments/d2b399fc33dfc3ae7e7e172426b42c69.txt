@@ -1,0 +1,17 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_add_PlantBuyerConfiguration_search.py:40 工厂采购员配置表 新增数据
+INFO     UIAutomationLogger:base_class.py:124 按钮 clicked successfully.
+ERROR    UIAutomationLogger:base_class.py:281 Error: Locator.fill: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("input.ant-uilib-select-selection-search-input").first
+
+INFO     UIAutomationLogger:test_add_PlantBuyerConfiguration_search.py:74 根据搜索条件'全部',选择商品
+INFO     UIAutomationLogger:base_class.py:32 Button '添加商品' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:678 multiMode_search: zyfotrbw  filled successfully.
+INFO     UIAutomationLogger:test_add_PlantBuyerConfiguration_search.py:82 根据搜索结果，勾选复选框
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

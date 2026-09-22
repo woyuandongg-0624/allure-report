@@ -1,0 +1,28 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:3154 未检测到加载动画
+INFO     UIAutomationLogger:base_class.py:32 Button '导出' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2075 导出响应状态：200, URL：https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/aggregateMetadata/method
+INFO     UIAutomationLogger:base_class.py:2088 获取导出结果成功：https://ptdatas.obs.cn-east-3.myhuaweicloud.com/files/3a149f92474e5dc0913b66f1bbcef218/86d17083773b429a9528571e345787de/2026/8/19/3a232cf4cb1171ee0cc56dc22f5d3a33.xlsx?AccessKeyId=CMAQKLU6J3FGLYU2CHKB&Expires=1787177307&response-cache-control=no-cache&response-content-disposition=attachment%3Bfilename*%3Dutf-8''%25E6%2589%25B9%25E9%2587%258F%25E5%25AF%25BC%25E5%2587%25BAExcel%25E6%2595%25B0%25E6%258D%25AE.xlsx&Signature=YTmIeLlj6VeSKkx%2F3vfdjODYVHQ%3D
+INFO     UIAutomationLogger:test_aggregationModelExport.py:63         名称                     流水号  ...        总价                  修改时间
+0     苹果,梨            202600000139  ...    222.00  8/18/2026 4:16:33 PM
+1     苹果,梨            202600000151  ...      6.00  8/19/2026 4:07:37 PM
+2     苹果,梨            202600000154  ...    220.00  2/25/2026 7:37:35 AM
+3     苹果,梨            202600000156  ...     22.11   3/3/2026 6:26:49 AM
+4     苹果,梨            202600000160  ...    220.00  3/30/2026 2:47:02 AM
+...    ...                     ...  ...       ...                   ...
+1810  苹果,梨  testdata20260820000736  ...     22.00  8/19/2026 4:07:37 PM
+1811   NaN  testdata20260820000758  ...       NaN  8/19/2026 4:07:58 PM
+1812  苹果,梨  testdata20260820120611  ...  22000.00  8/19/2026 4:06:11 PM
+1813  苹果,梨  testdata20260820120733  ...    220.00  8/19/2026 4:07:33 PM
+1814  苹果,梨  testdata20260820120814  ...  22000.00  8/19/2026 4:08:15 PM
+
+[1815 rows x 6 columns]
+INFO     UIAutomationLogger:test_aggregationModelExport.py:66 页面总条数：1814
+INFO     UIAutomationLogger:test_aggregationModelExport.py:67 导出文件总条数：1815
+INFO     UIAutomationLogger:test_aggregationModelExport.py:71 导出文件表头：['名称', '流水号', '订单优先级', '状态', '总价', '修改时间']
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

@@ -1,0 +1,16 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_chengpinsuoyang_choose.py:25 开始测试成品索样功能
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_chengpinsuoyang_choose.py:43 成品索样列表 - 分组筛选
+ERROR    UIAutomationLogger:test_chengpinsuoyang_choose.py:88 测试异常: Locator.click: Error: strict mode violation: get_by_text("事业部名称", exact=True) resolved to 2 elements:
+    1) <span _nk="urbUa5" title="事业部名称" class="tagSelectedPlaceholder___j3VwR">事业部名称</span> aka get_by_text("事业部名称").first
+    2) <span _nk="urbUa5" title="事业部名称" class="tagSelectedPlaceholder___j3VwR">事业部名称</span> aka get_by_text("事业部名称").nth(1)
+
+Call log:
+waiting for get_by_text("事业部名称", exact=True)
+
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

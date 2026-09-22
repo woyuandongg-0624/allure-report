@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_aggregationModelAddBatch.py:120 逻辑编排：69a63cd6e71db32242e9bc17 执行成功，业务码: 1

@@ -1,0 +1,19 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_chuchaibaogao_submit.py:32 开始：出差报告 - 跟进内容为空时提交被拦截校验测试
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_chuchaibaogao_submit.py:45 OAuth 回调已完成
+INFO     UIAutomationLogger:test_chuchaibaogao_submit.py:51 当前页面 URL: https://app.dangquyun.com/tabs/d1cb501a-a950-437a-86a9-525cbbed47da/displayApp/3a07fd71-eb26-bbdf-c17d-255d3817119a/dynamicApp/3a07fd71-eb26-bbdf-c17d-255d3817119a/pagedetail/23aea713-fb9c-4d09-bb2b-acae1abf7797/host
+INFO     UIAutomationLogger:test_chuchaibaogao_submit.py:63 已进入编辑页，URL: https://app.dangquyun.com/tabs/d1cb501a-a950-437a-86a9-525cbbed47da/displayApp/3a07fd71-eb26-bbdf-c17d-255d3817119a/dynamicApp/3a07fd71-eb26-bbdf-c17d-255d3817119a/pagedetail/23aea713-fb9c-4d09-bb2b-acae1abf7797/host
+INFO     UIAutomationLogger:test_chuchaibaogao_submit.py:68 提交前 URL: https://app.dangquyun.com/tabs/d1cb501a-a950-437a-86a9-525cbbed47da/displayApp/3a07fd71-eb26-bbdf-c17d-255d3817119a/dynamicApp/3a07fd71-eb26-bbdf-c17d-255d3817119a/pagedetail/23aea713-fb9c-4d09-bb2b-acae1abf7797/host
+INFO     UIAutomationLogger:test_chuchaibaogao_submit.py:75 已点击提交按钮
+ERROR    UIAutomationLogger:test_chuchaibaogao_submit.py:108 测试异常: Locator expected to contain text '跟进内容不允许为空'
+Actual value: <element(s) not found> 
+Call log:
+LocatorAssertions.to_contain_text with timeout 10000ms
+  - waiting for get_by_label("Notifications alt+T").locator("span")
+
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

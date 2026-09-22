@@ -1,0 +1,9 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_buglist.py:304 点击列设置icon
+INFO     UIAutomationLogger:test_buglist.py:337 列表顺序交换成功
+INFO     UIAutomationLogger:test_buglist.py:345 列数据和列都变化成功
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: (True, None)
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

@@ -1,0 +1,15 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_multimode_textarea.py:264 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:base_class.py:2324 activate component successfully
+INFO     UIAutomationLogger:base_class.py:32 Button '修改为可见' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2324 activate component successfully
+INFO     UIAutomationLogger:base_class.py:32 Button '修改为隐藏' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2324 activate component successfully
+INFO     UIAutomationLogger:test_multimode_textarea.py:287 editable: True, text_editable: 您的用户加入表示.美国怎么因为游戏继续有限. 重要增加可能电话社区资源.那么一点由于环境部分地址一般之后.正在首页这个男人.影响单位一般免费中国威望报告. 留言的话管理当然功能以后.因为发现一定你的.网上你的标准经济. 已经一种问题还有喜欢社区程序.技术一直文化之间更多.发布空间活动基本谢谢如果中国. 发展品牌大家手机市场使用就是世界.发现都是作者城市.工程责任可以.
+INFO     UIAutomationLogger:test_multimode_textarea.py:288 visiableble: False, text_visiableble: 您的用户加入表示.美国怎么因为游戏继续有限. 重要增加可能电话社区资源.那么一点由于环境部分地址一般之后.正在首页这个男人.影响单位一般免费中国威望报告. 留言的话管理当然功能以后.因为发现一定你的.网上你的标准经济. 已经一种问题还有喜欢社区程序.技术一直文化之间更多.发布空间活动基本谢谢如果中国. 发展品牌大家手机市场使用就是世界.发现都是作者城市.工程责任可以.
+INFO     UIAutomationLogger:test_multimode_textarea.py:289 hidden: False, text_hidden: 
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

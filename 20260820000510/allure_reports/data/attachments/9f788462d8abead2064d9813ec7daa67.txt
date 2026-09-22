@@ -1,0 +1,20 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:32 Button '新增' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:32 Button '保存' clicked successfully.
+INFO     UIAutomationLogger:test_pageDerivation.py:1977 获取到 SerialNumber: 202600000769
+INFO     UIAutomationLogger:test_pageDerivation.py:1990 SerialNumber: 202600000769
+INFO     UIAutomationLogger:base_class.py:2529 click event successfully
+INFO     UIAutomationLogger:base_class.py:32 Button '编辑' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:32 Button '新增' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:456 select matching_method 'order_details.productId' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:32 Button '保存' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2349 input component value successfully
+INFO     UIAutomationLogger:base_class.py:32 Button '提交' clicked successfully.
+INFO     UIAutomationLogger:test_pageDerivation.py:1977 获取到 SerialNumber: 202600000769
+INFO     UIAutomationLogger:test_pageDerivation.py:1979 获取到 IsTemporary: False
+INFO     UIAutomationLogger:test_pageDerivation.py:2045 IsTemporary字段更新为false
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

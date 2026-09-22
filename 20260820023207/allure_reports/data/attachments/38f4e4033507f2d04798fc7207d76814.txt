@@ -1,0 +1,12 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_login_simulated_delegated.py:27 Login successful! Proceeding to create a new sales order...
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/accountInfo/byUser
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/dynamicApplication/index?development=true&culture=zh-Hans
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/MenuAttention
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode byte 0x9f in position 1: invalid start byte
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode byte 0x92 in position 1: invalid start byte
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

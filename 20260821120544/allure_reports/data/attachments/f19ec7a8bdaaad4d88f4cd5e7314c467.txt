@@ -1,0 +1,27 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:40 线索管理 - 新增报价单「报价有效期」必填校验 用例开始执行
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:1009 Searching page and navigated successfully.
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:56 已进入“线索管理”页面
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:64 已激活列表搜索框
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:73 已检索线索：LEAD2026060001
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:78 已勾选线索数据
+INFO     UIAutomationLogger:base_class.py:32 Button '更多操作' clicked successfully.
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:87 已进入新增报价单表单
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:93 报价单表单已加载
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:112 已按 label 清空「报价有效期」
+INFO     UIAutomationLogger:base_class.py:32 Button '提交' clicked successfully.
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:126 已点击提交（报价有效期为空）
+ERROR    UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:141 断言失败: Locator expected to contain text '报价有效期该项为必填项'
+Actual value: <element(s) not found> 
+Call log:
+LocatorAssertions.to_contain_text with timeout 5000ms
+  - waiting for get_by_label("Notifications alt+T").locator("span")
+
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:145 错误截图已保存: error_screenshot_1787286916.png
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: None
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:test_xiansuo_baojiadan_youxiaoqi_required.py:164 测试结束，结果: 失败
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

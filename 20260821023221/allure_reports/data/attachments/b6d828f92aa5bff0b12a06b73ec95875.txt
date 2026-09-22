@@ -1,0 +1,10 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_multimode.py:693 Login successful! Proceeding to create a new sales order...
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/permissionmanage/app/tenantWorkbench/currentUser
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/DynamicApplication/byNameOrAppSourceId?appSourceId=8b6b1baa-46b9-42f2-9c9f-e4f6b178699b
+INFO     UIAutomationLogger:test_multimode.py:701 element is :<Locator frame=<Frame name= url='https://app.test.powertradepro.com/tabs/dd8c2821-7aa9-47e2-aab2-e4e0a78cb84c/displayApp/8b6b1baa-46b9-42f2-9c9f-e4f6b178699b/dynamicApp/8b6b1baa-46b9-42f2-9c9f-e4f6b178699b/pagedetail/b7c1fdc0-e874-4f9e-bb31-038237c5fd6c/host/3a149f92-474e-5dc0-913b-66f1bbcef218'> selector="[class^='dataSourceItemContent'] >> nth=0 >> [data-modefield='zdappqfb.input_x856fle8']">
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

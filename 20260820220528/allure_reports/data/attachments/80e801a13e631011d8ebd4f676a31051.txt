@@ -1,0 +1,47 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_multimode_date.py:788 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: []
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2025, month: 07, day: 19, hour: 08, minute: 55, second: 06
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2004, month: 03, day: 20, hour: 18, minute: 54, second: 25
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2016, month: 08, day: 06, hour: 16, minute: 32, second: 56
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2023, month: 05, day: 07, hour: 04, minute: 57, second: 11
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2010, month: 07, day: 11, hour: 11, minute: 19, second: 48
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2013, month: 08, day: 21, hour: 17, minute: 12, second: 41
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2008, month: 04, day: 08, hour: 09, minute: 31, second: 18
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2023, month: 07, day: 17, hour: 21, minute: 41, second: 06
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2028, month: 10, day: 25, hour: 12, minute: 45, second: 00
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2002, month: 10, day: 23, hour: 08, minute: 05, second: 39
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2003, month: 12, day: 26, hour: 14, minute: 04, second: 37
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2014, month: 11, day: 29, hour: 16, minute: 33, second: 39
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2011, month: 12, day: 01, hour: 11, minute: 10, second: 12
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2022, month: 04, day: 18, hour: 03, minute: 22, second: 31
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2007, month: 06, day: 09, hour: 12, minute: 33, second: 46
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2002, month: 07, day: 18, hour: 11, minute: 37, second: 06
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2014, month: 12, day: 26, hour: 12, minute: 39, second: 09
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2002, month: 10, day: 26, hour: 12, minute: 40, second: 10
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2000, month: 06, day: 01, hour: 13, minute: 46, second: 48
+INFO     UIAutomationLogger:test_multimode_date.py:801 results: [True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True, True]
+INFO     UIAutomationLogger:test_multimode_date.py:813 year: 2027, month: 04, day: 28, hour: 09, minute: 25, second: 41
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

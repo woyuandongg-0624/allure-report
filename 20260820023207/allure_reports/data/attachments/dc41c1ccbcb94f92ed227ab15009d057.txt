@@ -1,0 +1,22 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_data_version_system.py:26 Login successful! Proceeding to create a new sales order...
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/basicData/windowsTimeZones
+INFO     UIAutomationLogger:base_class.py:32 Button '提交' clicked successfully.
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode byte 0xfa in position 1: invalid start byte
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode byte 0xf2 in position 1: invalid continuation byte
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/permissionmanage/app/tenantWorkbench/currentUser
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/DynamicApplication/byNameOrAppSourceId?appSourceId=8b6b1baa-46b9-42f2-9c9f-e4f6b178699b
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/DynamicApplication/8b6b1baa-46b9-42f2-9c9f-e4f6b178699b
+INFO     UIAutomationLogger:base_class.py:32 Button '编辑' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:32 Button '提交' clicked successfully.
+INFO     UIAutomationLogger:test_data_version_system.py:105 x_correlation_id_list: ['859b0deec4f4eda0638bbbfdf72efba5']
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode byte 0x96 in position 1: invalid start byte
+ERROR    UIAutomationLogger:playwright_events.py:88 获取请求体失败: 'utf-8' codec can't decode byte 0xf1 in position 1: invalid continuation byte
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/dynamicApplication/appListAsEntryPoints?withoutMenus=true
+ERROR    UIAutomationLogger:playwright_events.py:69 2秒内存在两个相同请求,url为 : https://app.test.powertradepro.com/apis/tenancy/api/app/dynamicApplication/appListAsEntryPoints?withoutMenus=true
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

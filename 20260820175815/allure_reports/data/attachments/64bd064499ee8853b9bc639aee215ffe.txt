@@ -1,0 +1,1 @@
+INFO     UIAutomationLogger:test_logic_other_nodes_v1.py:82 逻辑编排：6a3e2205c16f09afe5b2b49f 执行成功，业务码: 1

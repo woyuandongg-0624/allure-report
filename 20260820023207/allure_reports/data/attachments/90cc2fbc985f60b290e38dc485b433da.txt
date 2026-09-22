@@ -1,0 +1,7 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:test_external_links.py:69 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:test_external_links.py:87 use_elements: Array(3)
+INFO     UIAutomationLogger:test_external_links.py:93 handle: JSHandle@node
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

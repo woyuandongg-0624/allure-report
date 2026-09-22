@@ -1,0 +1,17 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_chuchaibaogao_quxiao.py:39 出差报告单 - 取消待提交报告 用例开始执行
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+ERROR    UIAutomationLogger:base_class.py:1011 Failed to located tenant avatar: Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("input[type='text']") to be visible
+
+ERROR    UIAutomationLogger:test_chuchaibaogao_quxiao.py:133 用例执行异常：Page.wait_for_selector: Timeout 5000ms exceeded.
+Call log:
+waiting for locator("input[type='text']") to be visible
+
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: None
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:test_chuchaibaogao_quxiao.py:139 测试结束，结果：失败
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

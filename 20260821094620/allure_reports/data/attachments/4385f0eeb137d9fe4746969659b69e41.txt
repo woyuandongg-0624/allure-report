@@ -1,0 +1,30 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:42 产品淘汰 - 新增淘汰单商品明细为空校验用例开始执行
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:1896 已成功进入页面：应用"内销产品" / 页面"产品淘汰" / URL=https://app.dangquyun.com/tabs/c2775e0a-d542-4ad5-bb82-7519055d45b4/displayApp/093b2734-bce8-4237-a465-a5381ed07e76/dynamicApp/093b2734-bce8-4237-a465-a5381ed07e76/pagedetail/b085af49-9a2c-4cb4-b4ea-f885ce7983c2/host
+INFO     UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:70 已进入“内销产品 / 产品淘汰”页面
+INFO     UIAutomationLogger:base_class.py:32 Button '新增' clicked successfully.
+INFO     UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:81 已进入新增产品淘汰单表单
+WARNING  UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:107 负责人选择第 1 次失败：Locator.wait_for: Timeout 5000ms exceeded.
+Call log:
+waiting for get_by_title("张迟", exact=True).locator("div").first to be visible
+
+WARNING  UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:107 负责人选择第 2 次失败：Locator.wait_for: Timeout 5000ms exceeded.
+Call log:
+waiting for get_by_title("张迟", exact=True).locator("div").first to be visible
+
+WARNING  UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:107 负责人选择第 3 次失败：Locator.wait_for: Timeout 5000ms exceeded.
+Call log:
+waiting for get_by_title("张迟", exact=True).locator("div").first to be visible
+
+ERROR    UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:205 断言失败: 淘汰负责人“张迟”选择失败：最后一次错误为“Locator.wait_for: Timeout 5000ms exceeded.
+  Call log:
+  waiting for get_by_title("张迟", exact=True).locator("div").first to be visible
+  ”
+assert False
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: None
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:test_chanpintaotai_xinzeng_shangpinmingxi_empty.py:216 测试结束，结果: 失败
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

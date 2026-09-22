@@ -1,0 +1,15 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:3154 未检测到加载动画
+INFO     UIAutomationLogger:base_class.py:32 Button '导出' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2075 导出响应状态：200, URL：https://app.test.powertradepro.com/apis/tenancy/api/app/metadata/aggregateMetadata/method
+INFO     UIAutomationLogger:base_class.py:2088 获取导出结果成功：files/3a149f92474e5dc0913b66f1bbcef218/86d17083773b429a9528571e345787de/2026/8/19/3a232cf551d77aad75e736db68da5ea7.xls
+INFO     UIAutomationLogger:test_aggregationModelExport.py:120 file_url:https://ptdatas.obs.cn-east-3.myhuaweicloud.com/files/3a149f92474e5dc0913b66f1bbcef218/86d17083773b429a9528571e345787de/2026/8/19/3a232cf551d77aad75e736db68da5ea7.xls?AccessKeyId=CMAQKLU6J3FGLYU2CHKB&Expires=1787177342&response-cache-control=no-cache&Signature=l3%2BIZNo9UCNTbIYKUFMn0eKBDCQ%3D
+INFO     UIAutomationLogger:test_aggregationModelExport.py:127 页面总条数：1817
+INFO     UIAutomationLogger:test_aggregationModelExport.py:128 导出文件总条数：1817
+INFO     UIAutomationLogger:test_aggregationModelExport.py:132 导出文件表头：['流水号', '状态', '总价', 'ETag']
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

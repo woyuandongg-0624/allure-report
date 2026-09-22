@@ -1,0 +1,13 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_open_process.py:1911 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:get_process_history.py:50 任务信息1：[{'userId': '5d9474c1-a2d1-4998-81b4-f8a612d1796d', 'nodeId': 'pt_c867fac0-d426-42c7-a164-e294892d7f56', 'nodeName': 'G_无本地模型', 'taskId': '2d263ce0-9ccf-11f1-9ceb-425a7044ebe2'}]
+INFO     UIAutomationLogger:get_process_history.py:59 === 已进入目标节点===
+INFO     UIAutomationLogger:base_class.py:678 multiMode_search: ljpzjkvg.searchValueList  filled successfully.
+INFO     UIAutomationLogger:base_class.py:1411 Button '测试数据_8dfba726254836' clicked successfully.
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: None
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True
+WARNING  UIAutomationLogger:test_open_process.py:997 测试 test_123_process_disagree_without_model 失败，将跳过后续用例直到下一个恢复点

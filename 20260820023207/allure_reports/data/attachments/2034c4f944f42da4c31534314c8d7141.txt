@@ -1,0 +1,4 @@
+INFO     UIAutomationLogger:ai_base_api.py:313 来源状态修改请求状态码: 200
+INFO     UIAutomationLogger:ai_base_api.py:314 来源任务请求状态码: 200
+INFO     UIAutomationLogger:ai_base_api.py:318 来源状态已修改: None,修改任务状态{'status': 0, 'error': None}
+INFO     UIAutomationLogger:test_knowledge.py:195 回答结果是啊啊：(None, {'status': 0, 'error': None})

@@ -1,0 +1,16 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_chengpinsuoyang_list.py:25 开始测试成品锁样功能
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_chengpinsuoyang_list.py:43 成品索样列表 - 新增数据
+INFO     UIAutomationLogger:test_chengpinsuoyang_list.py:46 点击新增按钮
+INFO     UIAutomationLogger:test_chengpinsuoyang_list.py:51 选择松能
+INFO     UIAutomationLogger:test_chengpinsuoyang_list.py:57 选择日期
+ERROR    UIAutomationLogger:test_chengpinsuoyang_list.py:165 测试失败，异常信息: Locator.click: Timeout 30000ms exceeded.
+Call log:
+waiting for get_by_role("textbox", name="请选择日期")
+
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

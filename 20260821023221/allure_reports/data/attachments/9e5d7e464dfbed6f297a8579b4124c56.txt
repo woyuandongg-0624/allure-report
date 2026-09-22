@@ -1,0 +1,1 @@
+WARNING  UIAutomationLogger:test_open_process.py:987 前面测试失败，跳过本用例（当前测试：test_40_process_cancel）

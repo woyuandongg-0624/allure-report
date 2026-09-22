@@ -1,0 +1,4 @@
+INFO     UIAutomationLogger:test_aggregationModelCreateSingle.py:118 测试执行成功，符合预期，错误码: 4003004，错误信息: 新增商品热度值超过20
+   at Submission#49.<<Initialize>>d__0.MoveNext() in :line 46
+
+   at Submission#51.<>c__DisplayClass0_0.<<<Initialize>>g__step3__Querier|3>d.MoveNext() in :line 22

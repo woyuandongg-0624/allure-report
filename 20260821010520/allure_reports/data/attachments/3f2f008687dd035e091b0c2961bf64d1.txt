@@ -1,0 +1,7 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:test_quc_external_links.py:123 Download info - filename: DA16-4 gift box 次推包装 (3) (1)等2项分享.zip, url: https://minio.lumilegend.cn/erp/tmpfiles/DA16-4%20gift%20box%20%E6%AC%A1%E6%8E%A8%E5%8C%85%E8%A3%85%20%283%29%20%281%29%E7%AD%892%E9%A1%B9%E5%88%86%E4%BA%AB.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=admin%2F20260820%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260820T170535Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&response-cache-control=no-cache&X-Amz-Signature=c4a40e7853c69ecece76b95dec422940a98aa1e57da02904d16a5e3156837bab
+INFO     UIAutomationLogger:test_quc_external_links.py:124 文件已成功保存到临时路径：/tmp/DA16-4 gift box 次推包装 (3) (1)等2项分享.zip
+INFO     UIAutomationLogger:test_quc_external_links.py:135 临时文件已删除: /tmp/DA16-4 gift box 次推包装 (3) (1)等2项分享.zip
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

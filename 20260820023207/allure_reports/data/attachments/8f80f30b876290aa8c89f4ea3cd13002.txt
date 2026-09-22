@@ -1,0 +1,13 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_buglist.py:2279 找到5个休息日元素
+INFO     UIAutomationLogger:test_buglist.py:2286 第1个休息日是2025-05-01
+INFO     UIAutomationLogger:test_buglist.py:2286 第2个休息日是2025-05-02
+INFO     UIAutomationLogger:test_buglist.py:2286 第3个休息日是2025-05-03
+INFO     UIAutomationLogger:test_buglist.py:2286 第4个休息日是2025-05-04
+INFO     UIAutomationLogger:test_buglist.py:2286 第5个休息日是2025-05-05
+INFO     UIAutomationLogger:test_buglist.py:2292 休息日显示正确
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

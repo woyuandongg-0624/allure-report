@@ -1,0 +1,4 @@
+INFO     UIAutomationLogger:test_aggregationModelDelete.py:62 测试执行成功，符合预期，错误码: 4003004，错误信息: 创建人为龙翔的不允许删除
+   at Submission#13.<<Initialize>>d__0.MoveNext() in :line 67
+
+   at Submission#11.<>c__DisplayClass0_0.<<<Initialize>>g__step4__Querier|4>d.MoveNext() in :line 22

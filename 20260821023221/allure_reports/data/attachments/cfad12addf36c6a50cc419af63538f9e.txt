@@ -1,0 +1,15 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_buglist.py:1429 已点击复选框全选
+INFO     UIAutomationLogger:test_buglist.py:1443 列表复选框已全部被选中
+INFO     UIAutomationLogger:test_buglist.py:1450 点击复选框取消全选
+INFO     UIAutomationLogger:test_buglist.py:1460 列表复选框已全部取消勾选
+INFO     UIAutomationLogger:test_buglist.py:1471 已打开表单页面
+INFO     UIAutomationLogger:test_buglist.py:1487 数据新增成功
+INFO     UIAutomationLogger:test_buglist.py:1495 已刷新列表页面
+INFO     UIAutomationLogger:test_buglist.py:1519 删除成功
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: False
+INFO     UIAutomationLogger:login.py:146 start_type: UI-TEST
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: True

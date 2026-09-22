@@ -1,0 +1,10 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 113.0.5672.53
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:test_multimode_checkbox.py:507 Login successful! Proceeding to create a new sales order...
+INFO     UIAutomationLogger:base_class.py:2182 button '快速创建' clicked successfully.
+INFO     UIAutomationLogger:base_class.py:2324 activate component successfully
+INFO     UIAutomationLogger:test_multimode_checkbox.py:525 text: ['北京', '上海', '广州', '深圳', '成都', '重庆', '杭州', '武汉', '西安', '苏州', '南京', '天津', '郑州', '长沙', '东莞', '宁波', '佛山', '合肥', '青岛', '沈阳', '大连', '厦门', '福州', '无锡', '昆明', '哈尔滨', '长春', '石家庄', '南宁', '贵阳', '乌鲁木齐', '兰州', '海口', '三亚', '呼和浩特', '银川', '西宁', '拉萨', '太原', '济南', '南昌', '温州', '台州', '绍兴', '金华', '常州', '南通', '烟台', '潍坊', '洛阳', '珠海', '汕头', '惠州', '中山', '桂林', '绵阳', '芜湖', '泉州', '保定', '唐山', '廊坊', '邯郸', '沧州', '邢台', '衡水', '承德', '张家口', '秦皇岛', '大同', '长治', '临汾', '运城', '忻州', '晋中', '阳泉', '晋城', '鞍山', '抚顺', '本溪', '丹东', '锦州', '营口', '辽阳', '盘锦', '铁岭', '朝阳', '葫芦岛', '吉林', '四平', '辽源', '通化', '白山', '松原', '白城', '齐齐哈尔', '鸡西', '鹤岗', '双鸭山', '大庆', '伊春', '佳木斯', '七台河', '牡丹江', '黑河', '绥化', '泰州', '徐州', '淮安', '盐城', '扬州', '镇江', '连云港', '宿迁', '嘉兴', '湖州', '舟山', '衢州', '丽水', '蚌埠', '淮南', '马鞍山', '淮北', '铜陵', '安庆', '黄山', '滁州', '阜阳', '宿州', '六安', '亳州', '池州', '宣城', '莆田', '三明', '漳州', '南平', '龙岩', '宁德', '景德镇', '萍乡', '九江', '新余', '鹰潭', '赣州', '吉安', '宜春', '抚州', '上饶', '淄博', '枣庄', '东营', '济宁', '泰安', '日照', '临沂', '德州', '聊城', '滨州', '菏泽', '开封', '平顶山', '安阳', '鹤壁', '新乡', '焦作', '濮阳', '许昌', '漯河', '三门峡', '南阳', '商丘', '信阳', '周口', '驻马店', '黄石', '十堰', '宜昌', '襄阳', '鄂州', '荆门', '孝感', '荆州', '黄冈', '咸宁', '随州', '株洲', '湘潭', '衡阳', '邵阳', '岳阳', '常德', '张家界', '益阳', '郴州', '永州', '怀化', '娄底', '江门', '湛江', '茂名']
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False

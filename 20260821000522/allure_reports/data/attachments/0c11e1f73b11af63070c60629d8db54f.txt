@@ -1,0 +1,494 @@
+INFO     UIAutomationLogger:conftest.py:86 Launched browser version: 130.0.6723.31
+INFO     UIAutomationLogger:login.py:114 OAuth 跳转完成，已离开登录页面
+INFO     UIAutomationLogger:login.py:122 Login successful!
+INFO     UIAutomationLogger:base_class.py:3151 未检测到加载动画
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第1页的价格: [222.0, 6.0, 220.0, 22.11, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 2.0, 22.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第1页的总价: 3574.11
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3574.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第2页的价格: [2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 2.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第2页的总价: 14.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3588.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第3页的价格: [0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第3页的总价: 10.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3598.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第4页的价格: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第4页的总价: 0.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3598.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第5页的价格: [0.0, 2.0, 2.0, 2.0, 16.0, 16.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第5页的总价: 46.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3644.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第6页的价格: [0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第6页的总价: 20.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3664.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第7页的价格: [0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第7页的总价: 6.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3670.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第8页的价格: [0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 0.0, 2.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第8页的总价: 20.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3690.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第9页的价格: [2.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第9页的总价: 12.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3702.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第10页的价格: [0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第10页的总价: 14.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3716.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第11页的价格: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 2.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第11页的总价: 10.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3726.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第12页的价格: [2.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第12页的总价: 74.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3800.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第13页的价格: [2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第13页的总价: 14.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3814.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第14页的价格: [0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第14页的总价: 18.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3832.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第15页的价格: [0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第15页的总价: 16.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3848.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第16页的价格: [0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第16页的总价: 12.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3860.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第17页的价格: [0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第17页的总价: 14.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3874.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第18页的价格: [0.0, 2.0, 22.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 220.0, 220.0, 220.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第18页的总价: 1388.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5262.110000000001
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第19页的价格: [220.0, 220.0, 220.0, 220.0, 22.0, 220.0, 220.0, 220.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 220.0, 220.0, 220.0, 220.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第19页的总价: 3014.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 8276.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第20页的价格: [220.0, 220.0, 220.0, 220.0, 22.0, 220.0, 220.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第20页的总价: 1826.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 10102.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第21页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第21页的总价: 440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 10542.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第22页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第22页的总价: 418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 10960.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第23页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第23页的总价: 440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 11400.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第24页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第24页的总价: 440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 11840.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第25页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第25页的总价: 440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 12280.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第26页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第26页的总价: 440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 12720.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第27页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第27页的总价: 440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 13160.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第28页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第28页的总价: 1368.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 14528.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第29页的价格: [22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第29页的总价: 2340.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 16868.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第30页的价格: [220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第30页的总价: 2360.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 19228.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第31页的价格: [22.0, 22.0, 0.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第31页的总价: 177826.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 197054.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第32页的价格: [22.0, 22.0, 200.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 22.0, 220.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第32页的总价: 2202.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 199256.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第33页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 220.0, 220.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第33页的总价: 89144.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 288400.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第34页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 220.0, 220.0, 220.0, 220.0, 22000.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第34页的总价: 89342.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 377742.11
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第35页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第35页的总价: 198440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 576182.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第36页的价格: [22.0, 22.0, 22.0, 220.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第36页的总价: 22660.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 598842.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第37页的价格: [22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第37页的总价: 44462.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 643304.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第38页的价格: [220.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第38页的总价: 198550.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 841854.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第39页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第39页的总价: 110462.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 952316.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第40页的价格: [22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第40页的总价: 132440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1084756.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第41页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第41页的总价: 110484.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1195240.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第42页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第42页的总价: 88506.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1283746.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第43页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第43页的总价: 198374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1482120.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第44页的价格: [22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 495.0, 22.0, 495.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第44页的总价: 45188.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1527308.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第45页的价格: [495.0, 495.0, 495.0, 2.0, 20.0, 495.0, 495.0, 0.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第45页的总价: 2607.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1529915.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第46页的价格: [0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第46页的总价: 88374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1618289.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第47页的价格: [22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第47页的总价: 132352.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1750641.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第48页的价格: [22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第48页的总价: 110462.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1861103.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第49页的价格: [22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第49页的总价: 110396.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 1971499.1099999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第50页的价格: [22.0, 0.0, 22.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第50页的总价: 132418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2103917.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第51页的价格: [22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第51页的总价: 88462.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2192379.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第52页的价格: [22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第52页的总价: 110440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2302819.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第53页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第53页的总价: 88440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2391259.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第54页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第54页的总价: 132440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2523699.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第55页的价格: [22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 220.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第55页的总价: 88440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2612139.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第56页的价格: [22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 22.0, 0.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第56页的总价: 132418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2744557.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第57页的价格: [22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第57页的总价: 132374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2876931.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第58页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第58页的总价: 88440.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 2965371.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第59页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 22.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第59页的总价: 44308.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3009679.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第60页的价格: [22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第60页的总价: 110396.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3120075.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第61页的价格: [220.0, 22000.0, 22000.0, 22000.0, 22.0, 22000.0, 22.0, 22.0, 220.0, 22.0, 22.0, 22000.0, 22000.0, 0.0, 0.0, 0.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第61页的总价: 154550.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3274625.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第62页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第62页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3363043.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第63页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22000.0, 220.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第63页的总价: 44374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3407417.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第64页的价格: [22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第64页的总价: 132374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3539791.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第65页的价格: [22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第65页的总价: 44176.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3583967.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第66页的价格: [220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第66页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3672385.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第67页的价格: [22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第67页的总价: 132572.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3804957.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第68页的价格: [22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第68页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3893375.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第69页的价格: [22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第69页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 3981793.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第70页的价格: [22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第70页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4070211.11
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第71页的价格: [22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第71页的总价: 132374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4202585.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第72页的价格: [22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第72页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4291003.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第73页的价格: [22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第73页的总价: 88396.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4379399.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第74页的价格: [22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第74页的总价: 88374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4467773.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第75页的价格: [0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第75页的总价: 88374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4556147.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第76页的价格: [0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第76页的总价: 88396.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4644543.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第77页的价格: [22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第77页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4732961.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第78页的价格: [22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第78页的总价: 154352.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4887313.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第79页的价格: [22000.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第79页的总价: 110396.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 4997709.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第80页的价格: [22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第80页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5086127.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第81页的价格: [22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第81页的总价: 88374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5174501.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第82页的价格: [22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第82页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5262919.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第83页的价格: [0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第83页的总价: 88374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5351293.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第84页的价格: [0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第84页的总价: 88374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5439667.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第85页的价格: [22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第85页的总价: 88418.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5528085.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第86页的价格: [22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第86页的总价: 110594.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5638679.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第87页的价格: [22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22000.0, 220.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第87页的总价: 132396.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5771075.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第88页的价格: [22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第88页的总价: 88374.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5859449.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第89页的价格: [22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第89页的总价: 22198.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 5881647.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第90页的价格: [220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第90页的总价: 154352.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 6035999.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第91页的价格: [22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第91页的总价: 110396.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 6146395.109999999
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+WARNING  UIAutomationLogger:test_pageDerivation.py:356 跳过非数字价格: -
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第92页的价格: [220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 220.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第92页的总价: 110594.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 6256989.109999999
+INFO     UIAutomationLogger:test_pageDerivation.py:359 第93页的价格: [22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:360 第93页的总价: 22000.0
+INFO     UIAutomationLogger:test_pageDerivation.py:361 当前累计总价: 6278989.109999999
+INFO     UIAutomationLogger:test_pageDerivation.py:367 已到最后一页，共 93 页
+INFO     UIAutomationLogger:test_pageDerivation.py:368 所有价格: [222.0, 6.0, 220.0, 22.11, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 2.0, 22.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 2.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 2.0, 2.0, 16.0, 16.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 2.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 2.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 0.0, 2.0, 0.0, 2.0, 22.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 220.0, 220.0, 220.0, 22.0, 22.0, 220.0, 220.0, 220.0, 220.0, 22.0, 220.0, 220.0, 220.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 22.0, 220.0, 220.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 22.0, 22.0, 22.0, 0.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 22.0, 22.0, 22.0, 200.0, 220.0, 220.0, 220.0, 220.0, 220.0, 220.0, 22.0, 220.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 220.0, 220.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 220.0, 220.0, 220.0, 220.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 220.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 495.0, 22.0, 495.0, 22.0, 495.0, 495.0, 495.0, 2.0, 20.0, 495.0, 495.0, 0.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 22.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 22.0, 0.0, 22.0, 22.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 22.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22000.0, 22.0, 22.0, 220.0, 22.0, 22.0, 22000.0, 22000.0, 0.0, 0.0, 0.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 0.0, 0.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22000.0, 22000.0, 22000.0, 22000.0, 220.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 22000.0, 220.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 22000.0, 220.0, 22000.0, 22000.0, 22000.0, 22.0, 22.0, 22.0, 22.0, 22.0, 0.0, 0.0, 0.0, 22.0, 22.0, 220.0, 22000.0, 22000.0, 22000.0]
+INFO     UIAutomationLogger:test_pageDerivation.py:369 价格个数: 1638
+INFO     UIAutomationLogger:test_pageDerivation.py:370 计算总价: 6278989.109999999
+INFO     UIAutomationLogger:test_pageDerivation.py:384 订单列表页总价计算正确
+INFO     UIAutomationLogger:login.py:141 关闭浏览器中的case_result: True
+INFO     UIAutomationLogger:login.py:156 已移除页面监听器。
+INFO     UIAutomationLogger:conftest.py:118 is_failed: False
